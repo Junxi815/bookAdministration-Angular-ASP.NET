@@ -1,0 +1,13 @@
+#starsArea,#inputBookCategory{
+    border:none;
+    padding-left:0;
+}
+#inputBookCategory div{
+    padding-left: 0;
+}
+.borderColorError{
+    border: 1px solid red;
+}
+.fontColorError{
+    color:red;
+}
